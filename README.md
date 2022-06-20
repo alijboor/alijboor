@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 👋 I am Ali Jboor
 - 🔭 I have 1+ years of experince working as a Software Developer
-- 💻 I worked as a Full-Stack Developer at a Itqan Groub Sys.
+- 💻 I worked as a Full-Stack Developer at Itqan Groub Sys.
 - 🌱 I am currently focusing on learning new Tech skills
 - ⚡ Fun fact: Sometimes I LOVE to code 24/7
 
